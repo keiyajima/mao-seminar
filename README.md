@@ -7,6 +7,8 @@ https://elmas3.github.io/mao-seminar/
 真央教授
 エルマス
 わかば
+けいこ
+
 
 # ディレクトリ構成
 
